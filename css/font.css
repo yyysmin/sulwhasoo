@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "Arita-buriHL";
+    src: url("../font/Arita-buriHL.otf");
+}
+
+@font-face {
+    font-family: "AritaSans-Bold";
+    src: url("../font/AritaSans-Bold.otf");
+}
+
+@font-face {
+    font-family: "AritaSans-Light";
+    src: url("../font/AritaSans-Light.otf");
+}
+
+@font-face {
+    font-family: "AritaSans-Medium";
+    src: url("../font/AritaSans-Medium.otf");
+}
+
+@font-face {
+    font-family: "AritaSans-SemiBold";
+    src: url("../font/AritaSans-SemiBold.otf");
+}
+
+@font-face {
+    font-family: "AritaSans-Thin";
+    src: url("../font/AritaSans-Thin.otf");
+}
+
